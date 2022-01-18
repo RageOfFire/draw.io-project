@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T09:10:23.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="g_Pi3RICjt6G2i1PaiGH" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T09:12:39.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zEDOQvi_24_bn5bOxdpD" version="16.2.7" type="github">
   <diagram id="82jxAawqwtY6LcNN-yCt" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,11 +40,23 @@
         <mxCell id="J6C6VAbxZtpzsEo-bVpX-5" value="Quản lý đào tạo" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="120" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6C6VAbxZtpzsEo-bVpX-6" target="J6C6VAbxZtpzsEo-bVpX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J6C6VAbxZtpzsEo-bVpX-6" target="J6C6VAbxZtpzsEo-bVpX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6C6VAbxZtpzsEo-bVpX-6" target="J6C6VAbxZtpzsEo-bVpX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J6C6VAbxZtpzsEo-bVpX-6" value="Quản lý điểm" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="120" width="86" height="50" as="geometry" />
+          <mxGeometry x="630" y="120" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J6C6VAbxZtpzsEo-bVpX-7" target="J6C6VAbxZtpzsEo-bVpX-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J6C6VAbxZtpzsEo-bVpX-7" value="Quản lý hệ thống" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="120" width="101" height="50" as="geometry" />
+          <mxGeometry x="1030" y="120" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J6C6VAbxZtpzsEo-bVpX-15" value="Quản lý chuyên cần&lt;br&gt;sinh viên" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="240" width="120" height="50" as="geometry" />
@@ -60,6 +72,18 @@
         </mxCell>
         <mxCell id="J6C6VAbxZtpzsEo-bVpX-23" value="Quản lý môn học&lt;br&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-27" value="Quản lý điểm tp-tc" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-28" value="Quản lý điểm DS-thi" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-29" value="Tra cứu điểm" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J6C6VAbxZtpzsEo-bVpX-33" value="Đổi mật khẩu" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="240" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
