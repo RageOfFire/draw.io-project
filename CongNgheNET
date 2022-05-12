@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T09:36:49.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="mnxHdhbHM4oecruSdCKU" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T09:40:30.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="mT3uj0IJ3jXKYL9tbQZc" version="18.0.3" type="github">
   <diagram id="0lFz2EHdwj7gF_eQqcQa" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,12 +39,6 @@
         </mxCell>
         <mxCell id="hbNgA0q_5n-bYD0r5jwq-20" value="Quản lý thẻ thư viện" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="970" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hbNgA0q_5n-bYD0r5jwq-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hbNgA0q_5n-bYD0r5jwq-3" target="hbNgA0q_5n-bYD0r5jwq-9">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="200" as="sourcePoint" />
-            <mxPoint x="510" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="hbNgA0q_5n-bYD0r5jwq-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hbNgA0q_5n-bYD0r5jwq-2" target="hbNgA0q_5n-bYD0r5jwq-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
