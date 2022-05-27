@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T14:38:21.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="mlABoj6gmNap1A-lLUsp" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T14:39:09.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="I-dJC-9DfXCxVzsED44V" version="18.0.7" type="github">
   <diagram id="GKOS0CCKBn2XAonb_pCk" name="Page-1">
     <mxGraphModel dx="1038" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="RUlx3O9iyyuqmxPMWWt8-3" value="Người quản lý" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="5" y="10" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RUlx3O9iyyuqmxPMWWt8-5" value="Nhập thông tin người dùng cần tìm kiếm" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="RUlx3O9iyyuqmxPMWWt8-2" parent="1">
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-5" value="Nhập thông tin người dùng cần khóa/mở khóa tài khoản" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="RUlx3O9iyyuqmxPMWWt8-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="110" as="sourcePoint" />
           </mxGeometry>
