@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T14:27:01.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.0.7" etag="4TTF1tPTcOeLECExc8lG" type="github"><diagram id="GKOS0CCKBn2XAonb_pCk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-27T14:35:59.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="McDblvPnvw8C-TJBbG7p" version="18.0.7" type="github">
+  <diagram id="GKOS0CCKBn2XAonb_pCk" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-2" value="Hệ thống" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RUlx3O9iyyuqmxPMWWt8-2">
+          <mxGeometry x="45" y="70" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RUlx3O9iyyuqmxPMWWt8-2">
+          <mxGeometry x="45" y="145" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-7" value="Kiểm tra" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="RUlx3O9iyyuqmxPMWWt8-6" parent="RUlx3O9iyyuqmxPMWWt8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="125" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-3" value="Người quản lý" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="5" y="10" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-5" value="Nhập thông tin thêm, sửa, xóa" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="RUlx3O9iyyuqmxPMWWt8-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUlx3O9iyyuqmxPMWWt8-8" value="Thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="RUlx3O9iyyuqmxPMWWt8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
